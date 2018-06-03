@@ -1,0 +1,9 @@
+# vol-menes-y-areas Trabajo final de icc
+import math
+forma=str(input("Ingrese la forma geométrica: ")
+if forma=="cilindro": 
+    radio=int(input("Ingrese el radio: ")
+    altura=nt(input("Ingrese la altura: ")
+    volumen=(radio**2)*altura*math.pi
+    
+    
